@@ -1,0 +1,14 @@
+{
+  "model": "GPT-4o",
+  "task": "sentiment_analysis",
+  "dataset": "weibo_sentiment_v2",
+  "metrics": {
+    "accuracy": 0.923,
+    "f1": 0.918,
+    "precision": 0.921,
+    "recall": 0.915
+  },
+  "test_samples": 5000,
+  "evaluator_notes": "在负向情感识别上略弱，其余指标达标",
+  "pass": true
+}
