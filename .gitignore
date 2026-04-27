@@ -3,3 +3,4 @@ keys/
 *.cert.json
 __pycache__/
 *.pyc
+.obsidian/
